@@ -18,7 +18,7 @@ duckdb
 pandas
 openai
 langchain-groq
-duckduckgo_search --upgrade
+duckduckgo_search==8.0.1
 pymupdf
 arxiv
 wikipedia
