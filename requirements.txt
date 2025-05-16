@@ -31,4 +31,5 @@ pytube
 numexpr
 huggingface_hub
 youtube-transcript-api
+streamlit
 google-search-results
