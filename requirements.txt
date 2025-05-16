@@ -32,4 +32,3 @@ numexpr
 huggingface_hub
 youtube-transcript-api
 google-search-results
-serpapi
